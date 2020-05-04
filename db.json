@@ -1,0 +1,10 @@
+{
+  "failedWithSuggestions": {
+    "status": "Suggestions",
+    "suggestions": [
+      {
+        "addressLineOne": "Some Address"
+      }
+    ]
+  }
+}
