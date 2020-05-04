@@ -3,8 +3,35 @@
     "status": "Suggestions",
     "suggestions": [
       {
-        "addressLineOne": "Some Address"
-      }
+        "extension": "31",
+        "streetName": "Eyston Drive",
+        "townCity": "Weybridge",
+        "postcode": "KT13 0XD"
+      },
+      {
+        "extension": "32",
+        "streetName": "Eyston Drive",
+        "townCity": "Weybridge",
+        "postcode": "KT13 0XD"
+      },
+      {
+        "extension": "33",
+        "streetName": "Eyston Drive",
+        "townCity": "Weybridge",
+        "postcode": "KT13 0XD"
+      },
+      {
+        "extension": "34",
+        "streetName": "Eyston Drive",
+        "townCity": "Weybridge",
+        "postcode": "KT13 0XD"
+      },
+      {
+        "extension": "35",
+        "streetName": "Eyston Drive",
+        "townCity": "Weybridge",
+        "postcode": "KT13 0XD"
+      },
     ]
   }
 }
