@@ -33,5 +33,12 @@
         "postcode": "KT13 0XD"
       }
     ]
+  },
+  "failedWithoutSuggestions": {
+    "success": "Failed",
+    "suggestions": []
+  },
+  "success": {
+    "status": "Validated"
   }
 }
