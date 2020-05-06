@@ -35,7 +35,7 @@
     ]
   },
   "failedWithoutSuggestions": {
-    "success": "Failed",
+    "status": "Failed",
     "suggestions": []
   },
   "success": {
