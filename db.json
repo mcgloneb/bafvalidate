@@ -1,7 +1,7 @@
 {
   "failedWithSuggestions": {
     "decision": "reject",
-    "suggestions": [
+    "suggestedAddresses": [
       {
         "extension": "31",
         "streetName": "Eyston Drive",
@@ -36,7 +36,7 @@
   },
   "failedWithoutSuggestions": {
     "decision": "review",
-    "suggestions": [],
+    "suggestedAddresses": [],
     "errors": []
   },
   "success": {
