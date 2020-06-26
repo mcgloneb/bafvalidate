@@ -44,5 +44,9 @@
   },
   "unknown": {
     "decision": "unknown"
+  },
+  "translate": {
+    "status": 200,
+    "translation": "This is the returned translated text"
   }
 }
